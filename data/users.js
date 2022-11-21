@@ -19,5 +19,9 @@ export const USERS = [
         user: 'person5',
         image: 'https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=1600',
     },
+    {
+        user: 'person6',
+        image: 'https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg-1024x683.jpg',
+    },
     
 ]
